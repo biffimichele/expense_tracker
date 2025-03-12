@@ -1,0 +1,1 @@
+/home/micheleb/Scrivania/workingArea/flutter/expense_tracker/build/app/intermediates/cxx/Debug/1u71v185/obj/x86_64
